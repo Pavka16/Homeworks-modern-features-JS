@@ -1,5 +1,4 @@
 ## Домашняя работа по модулю Продвинутый JavaScript: современные возможности языка.
----
 ### 1. [*Working environment*](https://github.com/Pavka16/working-environment)
 ### 2. [*Modules-WebPack*](https://github.com/Pavka16/Modules)
 ### 3. [*Platforms Browser vs Node.js*](https://github.com/Pavka16/Platforms-Browser-and-Node.js) 
